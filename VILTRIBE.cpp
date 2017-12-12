@@ -1,3 +1,4 @@
+//https://www.codechef.com/viewsolution/16560913  (https://www.codechef.com/problems/VILTRIBE)
 #include <iostream>
 #include<string>
 using namespace std;
